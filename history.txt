@@ -1,0 +1,85 @@
+    1  pwd
+    2  ls
+    3  pwd
+    4  cd
+    5  pwd
+    6  cd/
+    7  cd /
+    8  pwd
+    9  ls
+   10  cd
+   11  pwd
+   12  ls
+   13  [200~/c/Users/mbong/Desktop/Websites~
+   14  ls
+   15  card counting.js
+   16  cd Workspace/
+   17  ls
+   18  mkdir git-basic-exercises
+   19  ls
+   20  cd git-basic-exercises/
+   21  pwd
+   22  cd
+   23  pwd
+   24  cd ..
+   25  ls
+   26  pwd
+   27  pwd
+   28  ls
+   29  cd git-basic-exercises/
+   30  ls
+   31  ls -a
+   32  git init
+   33  ls -a
+   34  git status
+   35  git log
+   36  touch README.md
+   37  ls -a
+   38  ls
+   39  git log
+   40  git add README.md 
+   41  git status
+   42  git rm --cached README.md 
+   43  git status
+   44  git add README.md 
+   45  git status
+   46  git commit -m "initial commit"
+   47  git log
+   48  q
+   49  ls
+   50  cat README.md 
+   51  nano README.md 
+   52  cat README.md 
+   53  git status
+   54  git commit -m "second commit"
+   55  git add README.md 
+   56  git status
+   57  git commit -m "second commit"
+   58  git log
+   59  ls
+   60  nano README.md 
+   61  git add README.md 
+   62  git commit -m "third commit"
+   63  git log
+   64  git checkout 46bd92d3db9806bc09c11b77a5b48de00d9911d9
+   65  cat README.md 
+   66  git checkout main
+   67  cat README.md 
+   68  git branch
+   69  git branch milkshake-flavours
+   70  git branch
+   71  git checkout milkshake-flavours
+   72  git branch
+   73  nano milkshakes.md
+   74  git status
+   75  git add milkshakes.md
+   76  git commit -m "added initial flavours"
+   77  git log
+   78  git checkout main
+   79  git branch
+   80  git branch history
+   81  git branch
+   82  git checkout history
+   83  git log
+   84  git branch
+   85  history > history.txt
